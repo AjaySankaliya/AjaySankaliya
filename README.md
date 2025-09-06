@@ -43,14 +43,13 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p>
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AjaySankaliya&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AjaySankaliya&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AjaySankaliya&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaySankaliya&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+
 
 
