@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Sankaliya</h1>
-<h3 align="center">Software Developer | Preparing for Placements 🚀</h3>
+<h4 align="center">Software Developer</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AjaySankaliya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
